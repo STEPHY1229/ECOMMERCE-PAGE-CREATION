@@ -1,0 +1,18 @@
+#herosection img{
+    height: 500px;
+    width: 70%;
+}
+
+#picture{
+    display: flex;
+    flex-direction: column;
+}
+
+#picture .card img{
+    height: 200px;
+    object-fit: cover;
+}
+
+.picture .card button{
+    margin-top: auto;
+}
