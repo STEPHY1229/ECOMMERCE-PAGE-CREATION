@@ -16,3 +16,17 @@
 .picture .card button{
     margin-top: auto;
 }
+
+.footer{
+    background-color: #00c853;
+}
+
+.footer h5,p{
+    color: white;
+}
+
+.foot img{
+    /* margin-left: 80px; */
+    object-fit: contain;
+    
+} 
